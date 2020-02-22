@@ -4,7 +4,7 @@
 	<groupId>com</groupId>
 	<artifactId>DhanajyothiLatestTest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>war</packaging> 
 
 	<properties>
 		<failOnMissingWebXml>false</failOnMissingWebXml>
